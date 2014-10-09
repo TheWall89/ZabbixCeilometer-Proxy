@@ -19,7 +19,7 @@ class ReadConfFile:
 
     config = None
 
-    def __init__(self, file="proxy.conf"):
+    def __init__(self, file="./proxy.conf"):
 
         """
         Method to read from conf file specific options
