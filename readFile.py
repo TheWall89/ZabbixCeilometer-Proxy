@@ -3,7 +3,7 @@ Class for reading the configuration file
 
 Uses the ConfigParser lib to return the values present in the config file
 """
-
+# Prova Commit
 __authors__ = "Claudio Marques, David Palma, Luis Cordeiro"
 __copyright__ = "Copyright (c) 2014 OneSource Consultoria Informatica, Lda"
 __license__ = "Apache 2"
